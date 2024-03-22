@@ -9,14 +9,14 @@ const TAB_DATA = [
         id: "skills",
         content: (
             <ul className="grid grid-cols-3 list-disc pl-2">
-                <li>Machine Learning</li>
-                <li>Algorithms</li>
-                <li>Pytorch</li>
-                <li>NLP</li>
-                <li>Javascript</li>
-                <li>Node.js</li>
-                <li>HTML</li>
-                <li>CSS</li>
+                <li className="ml-2">Machine Learning</li>
+                <li className="ml-2">Algorithms</li>
+                <li className="ml-2">Pytorch</li>
+                <li className="ml-2">NLP</li>
+                <li className="ml-2">Javascript</li>
+                <li className="ml-2">Node.js</li>
+                <li className="ml-2">HTML</li>
+                <li className="ml-2">CSS</li>
             </ul>
         )
     },

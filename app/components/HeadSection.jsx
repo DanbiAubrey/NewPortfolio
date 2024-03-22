@@ -40,7 +40,7 @@ const HeadSection = () => {
                 </div>
             </div>
         <div className="col-span-5 place-self-center mt-4 lg:mt-0">
-            <div className="rounded-full bg-[#181818] mt-4 w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative opacity-100">
+            <div className="rounded-full mt-4 w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative opacity-100">
                 <Image 
                     src="/images/danielle_photo.png"
                     alt="danielle img"
